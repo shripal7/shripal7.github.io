@@ -1,0 +1,11 @@
+.idea/
+node_modules/
+.vscode/
+dist/
+build/
+.cache/
+node_modules/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+Thumbs.db
